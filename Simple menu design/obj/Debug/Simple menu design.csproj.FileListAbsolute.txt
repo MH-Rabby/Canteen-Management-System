@@ -1,0 +1,10 @@
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\bin\Debug\Simple menu design.exe.config
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\bin\Debug\Simple menu design.exe
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\bin\Debug\Simple menu design.pdb
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple menu design.csproj.AssemblyReference.cache
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple_menu_design.Form1.resources
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple_menu_design.Properties.Resources.resources
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple menu design.csproj.GenerateResource.cache
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple menu design.csproj.CoreCompileInputs.cache
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple menu design.exe
+C:\Users\Rabby\source\repos\Simple menu design\Simple menu design\obj\Debug\Simple menu design.pdb
